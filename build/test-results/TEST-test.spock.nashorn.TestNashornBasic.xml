@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.spock.nashorn.TestNashornBasic" tests="1" skipped="0" failures="1" errors="0" timestamp="2016-06-21T14:28:48" hostname="DESKTOP-ECCVK9B" time="0.34">
+  <properties/>
+  <testcase name="printString" classname="test.spock.nashorn.TestNashornBasic" time="0.34">
+    <failure message="Condition not satisfied:&#10;&#10;result == &quot;Vinícius&quot;&#10;|      |&#10;|      false&#10;|      1 difference (87% similarity)&#10;|      Vin(i)cius&#10;|      Vin(í)cius&#10;Vinicius&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == &quot;Vinícius&quot;
+|      |
+|      false
+|      1 difference (87% similarity)
+|      Vin(i)cius
+|      Vin(í)cius
+Vinicius
+
+	at test.spock.nashorn.TestNashornBasic.printString(TestNashornBasic.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

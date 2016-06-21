@@ -1,0 +1,13 @@
+{
+  "name": "test-nashorn",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "http://turbina.icolabora.com.br",
+  "license": "MIT",
+  "author": {
+    "name": "Vinícius Pereira"
+  },
+  "dependencies": {
+    "jasmine-core": "~2.4"
+  }
+}

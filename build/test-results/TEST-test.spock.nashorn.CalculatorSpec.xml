@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.spock.nashorn.CalculatorSpec" tests="20" skipped="0" failures="0" errors="0" timestamp="2016-06-21T14:28:48" hostname="DESKTOP-ECCVK9B" time="0.293">
+  <properties/>
+  <testcase name="add of 1 and 1 is 2" classname="test.spock.nashorn.CalculatorSpec" time="0.231"/>
+  <testcase name="add of 2 and 1 is 3" classname="test.spock.nashorn.CalculatorSpec" time="0.007"/>
+  <testcase name="add of 3 and 1 is 4" classname="test.spock.nashorn.CalculatorSpec" time="0.005"/>
+  <testcase name="add of 4 and 1 is 5" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="sub of 1 and 1 is 0" classname="test.spock.nashorn.CalculatorSpec" time="0.006"/>
+  <testcase name="sub of 2 and 1 is 1" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="sub of 3 and 1 is 2" classname="test.spock.nashorn.CalculatorSpec" time="0.002"/>
+  <testcase name="sub of 4 and 1 is 3" classname="test.spock.nashorn.CalculatorSpec" time="0.002"/>
+  <testcase name="div of 1 and 1 is 1" classname="test.spock.nashorn.CalculatorSpec" time="0.005"/>
+  <testcase name="div of 2 and 1 is 2" classname="test.spock.nashorn.CalculatorSpec" time="0.002"/>
+  <testcase name="div of 3 and 1 is 3" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="div of 4 and 1 is 4" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="mult of 1 and 1 is 1" classname="test.spock.nashorn.CalculatorSpec" time="0.004"/>
+  <testcase name="mult of 2 and 1 is 2" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="mult of 3 and 1 is 3" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="mult of 4 and 1 is 4" classname="test.spock.nashorn.CalculatorSpec" time="0.002"/>
+  <testcase name="square of 1 is 1" classname="test.spock.nashorn.CalculatorSpec" time="0.005"/>
+  <testcase name="square of 2 is 4" classname="test.spock.nashorn.CalculatorSpec" time="0.002"/>
+  <testcase name="square of 3 is 9" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <testcase name="square of 4 is 16" classname="test.spock.nashorn.CalculatorSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
